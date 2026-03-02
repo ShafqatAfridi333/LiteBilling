@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Shafqat_Billing_Repo.app" target="21" />
+      <module name="Shafqat_Billing_Repo.billing" target="21" />
       <module name="Shafqat_Billing_Repo.mylibrary" target="21" />
     </bytecodeTargetLevel>
   </component>
